@@ -1,3 +1,17 @@
 Everything here was using the background(sorted in the files);
 then using pywal,
 or wal-i /path/to/picture.picture
+polybar was created using 
+https://github.com/adi1090x/polybar-themes
+and also 
+https://github.com/ngynLk/polybar-themes
+______________________________________-
+apps used:
+unimatrix
+cava
+polybar
+thunar
+nano
+terminal=termite
+pipes-rs
+and then various configuration files
